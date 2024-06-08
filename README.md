@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there 👋, Welcome!
 
 Hello! 👋 My name is **Benjamin Lambe**. I am from Durham, England. Currently 🎓 a Masters in Computer Science with Artificial Intelligence at the 🏫 of York.
 
