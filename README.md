@@ -9,5 +9,4 @@ Currently working 🧑‍💼 for the Office for National Statistics as a Softwa
 
 - 🔭 I’m currently working on a model for predicting chess ELO
 - 🌱 I’m currently learning skikit-learn 🧪 and other frameworks 🐼🔢🌊
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Cows have best friends and get stressed when they are separated! 🐮🐮
