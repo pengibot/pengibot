@@ -1,7 +1,7 @@
 
 ## Hi there 👋, Welcome!
 
-Hello! 👋 My name is **Benjamin Lambe**. I am from Durham, England. 
+Hello! 👋 I am from Durham, England. 
 
 I have a huge interest in Machine Learning 🤖 and coding 📃. Currently using Python 🐍, skikit-learn 🧪, pandas 🐼, Numpy 🔢 and Seaborn 🌊 to develop a model to predict chess ♟️ player's ELO's based on a single game 🕹️. 
 
